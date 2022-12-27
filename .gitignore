@@ -1,2 +1,3 @@
 #여기 포함된 것들은 git에서 관리 불가능(접근 불가)
 secrets.yaml
+*.config
